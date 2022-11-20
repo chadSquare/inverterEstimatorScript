@@ -12,3 +12,6 @@ To use the script all you need to do is the following:
 3) Navigate into the directory
 4) compile the typeScript code using: tsc estimator.ts
 5) run the compiled JavaScript code using: node estimator.js 
+
+Disclaimer:
+I do not claim any rights to the formula used in the script. I found a website that gives a good explanation on how to caluculate inverter size and decided to make a script using their formula becuase if I wrote these details on a piece of paper I'd probably lose is. A big thank you to the owners of this website https://www.electricalengineeringtoolbox.com/2017/07/how-to-calculate-inverter-power-rating.html   
